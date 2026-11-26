@@ -1,0 +1,27 @@
+# Results come from the Zenodo record (doi:10.5281/zenodo.24368491)
+cfd/results/
+# Generated geometry, meshes and Fluent outputs
+cfd/geometry/out/
+cfd/fluent/out/
+cfd/fluent/logs/
+*.msh
+*.msh.h5
+*.cas.h5
+*.dat.h5
+*.step
+*.stl
+*.npz
+# Generated figures and tables (the figure data CSVs are tracked: they are what the paper plots)
+paper/figures/*.pdf
+paper/figures/*.png
+paper/figures/preview/
+paper/sections/*.tex
+# Site settings
+cfd/fluent/site.sh
+# Python and editors
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+.idea/
+paper/supplemental/tab_*.tex

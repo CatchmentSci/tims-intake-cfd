@@ -1,0 +1,7 @@
+region,shape,x0_mm,x1_mm,z0_mm,z1_mm,xc_mm,zc_mm,r_mm,face_mm
+domain (far field),rect,-1000.00,4260.00,-550.00,550.00,,,,40
+near body,rect,-150.00,1410.00,-110.00,110.00,,,,6
+wake,rect,1410.00,2910.00,-160.00,160.00,,,,10
+jet core,rect,140.00,1120.00,-12.00,12.00,,,,1.20
+inlet tip sphere,circle,,,,,0.00,0.00,30.00,1.50
+outlet tip sphere,circle,,,,,1260.00,0.00,30.00,1.50

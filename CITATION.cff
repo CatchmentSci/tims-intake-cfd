@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper and the data record."
+title: "tims-intake-cfd: CFD of the intake hydrodynamics of time-integrated suspended sediment samplers"
+type: software
+authors:
+  - family-names: Perks
+    given-names: Matthew T.
+    affiliation: Newcastle University
+repository-code: "https://github.com/CatchmentSci/tims-intake-cfd"
+license: MIT
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24368491"
+    description: "Data record: run results, run list and supplementary information"
+preferred-citation:
+  type: article
+  title: "Intake hydrodynamics of time-integrated suspended sediment samplers: computational fluid dynamics of six sampler configurations compared with laboratory calibrations"
+  authors:
+    - family-names: Perks
+      given-names: Matthew T.
+  journal: "Journal of Hydraulic Engineering"
+  status: submitted
+references:
+  - type: dataset
+    title: "Intake hydrodynamics of time-integrated suspended sediment samplers: data and supplementary information"
+    authors:
+      - family-names: Perks
+        given-names: Matthew T.
+    publisher:
+      name: Zenodo
+    doi: "10.5281/zenodo.24368491"

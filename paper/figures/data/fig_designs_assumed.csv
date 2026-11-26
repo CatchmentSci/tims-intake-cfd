@@ -1,0 +1,34 @@
+design,part,shape,vertex,x_mm,z_mm
+Phillips,nose cone,poly,0,20.000,3.000
+Phillips,nose cone,poly,1,120.000,3.000
+Phillips,nose cone,poly,2,120.000,55.000
+Phillips,nose cone,poly,3,20.000,3.000
+Phillips,nose cone,poly,0,20.000,-3.000
+Phillips,nose cone,poly,1,120.000,-3.000
+Phillips,nose cone,poly,2,120.000,-55.000
+Phillips,nose cone,poly,3,20.000,-3.000
+Perks + meter,meter position (on the axis),box,0,195.500,-33.500
+Perks + meter,meter position (on the axis),box,1,264.500,-33.500
+Perks + meter,meter position (on the axis),box,2,264.500,11.500
+Perks + meter,meter position (on the axis),box,3,195.500,11.500
+Perks + meter,meter position (on the axis),box,4,195.500,-33.500
+Elliott,outlet elbow and down-tube,box,0,1243.838,-63.894
+Elliott,outlet elbow and down-tube,box,1,1277.378,-63.894
+Elliott,outlet elbow and down-tube,box,2,1277.378,15.000
+Elliott,outlet elbow and down-tube,box,3,1243.838,15.000
+Elliott,outlet elbow and down-tube,box,4,1243.838,-63.894
+McDonald,"funnel (hollow, dimensions assumed)",box,0,0.000,-34.925
+McDonald,"funnel (hollow, dimensions assumed)",box,1,86.162,-34.925
+McDonald,"funnel (hollow, dimensions assumed)",box,2,86.162,34.925
+McDonald,"funnel (hollow, dimensions assumed)",box,3,0.000,34.925
+McDonald,"funnel (hollow, dimensions assumed)",box,4,0.000,-34.925
+Foets,outlet tube (o.d. assumed),poly,0,1110.000,1.000
+Foets,outlet tube (o.d. assumed),poly,1,1260.000,1.000
+Foets,outlet tube (o.d. assumed),poly,2,1260.000,2.000
+Foets,outlet tube (o.d. assumed),poly,3,1110.000,2.000
+Foets,outlet tube (o.d. assumed),poly,4,1110.000,1.000
+Foets,outlet tube (o.d. assumed),poly,0,1110.000,-1.000
+Foets,outlet tube (o.d. assumed),poly,1,1260.000,-1.000
+Foets,outlet tube (o.d. assumed),poly,2,1260.000,-2.000
+Foets,outlet tube (o.d. assumed),poly,3,1110.000,-2.000
+Foets,outlet tube (o.d. assumed),poly,4,1110.000,-1.000

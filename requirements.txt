@@ -1,0 +1,11 @@
+# Post-processing and geometry (versions used for the paper)
+numpy==2.4.2
+scipy==1.16.2
+pandas==2.3.3
+matplotlib==3.11.2
+h5py==3.16.0
+Pillow==12.3.0
+pypdf==6.19.0
+gmsh==4.15.2
+# Fluent runs (HPC environment only; needs Ansys Fluent 2025 R1 and a licence)
+ansys-fluent-core==0.37.2

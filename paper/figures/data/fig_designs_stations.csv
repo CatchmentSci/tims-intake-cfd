@@ -1,0 +1,37 @@
+design,station,x_mm
+Phillips,inlet tip,0.00
+Phillips,nose start,20.38
+Phillips,body front face,120.00
+Phillips,body rear face,1140.00
+Phillips,outlet tip,1260.00
+Phillips,aft end,1260.00
+Perks,inlet tip,0.00
+Perks,nose start,20.00
+Perks,body front face,137.00
+Perks,body rear face,1147.00
+Perks,outlet tip,1284.00
+Perks,aft end,1284.00
+Perks + meter,inlet tip,0.00
+Perks + meter,nose start,20.00
+Perks + meter,body front face,137.00
+Perks + meter,body rear face,1147.00
+Perks + meter,outlet tip,1284.00
+Perks + meter,aft end,1284.00
+Elliott,inlet tip,0.00
+Elliott,nose start,136.00
+Elliott,body front face,172.40
+Elliott,body rear face,1243.84
+Elliott,outlet tip,1266.27
+Elliott,aft end,1277.38
+McDonald,inlet tip,0.00
+McDonald,nose start,0.00
+McDonald,body front face,66.16
+McDonald,body rear face,304.16
+McDonald,outlet tip,304.16
+McDonald,aft end,304.16
+Foets,inlet tip,0.00
+Foets,nose start,20.38
+Foets,body front face,120.00
+Foets,body rear face,1140.00
+Foets,outlet tip,1260.00
+Foets,aft end,1260.00
